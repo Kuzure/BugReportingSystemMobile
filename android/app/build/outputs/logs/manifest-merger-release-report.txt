@@ -1,0 +1,477 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:1:1-48:12
+MERGED from [:location_permissions] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\location_permissions\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_android] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\path_provider\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_beacon] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\flutter_beacon\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_secure_storage] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\flutter_secure_storage\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-28:12
+MERGED from [:shared_preferences_android] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\shared_preferences_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\connectivity\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:alert] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\alert\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:device_information] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\device_information\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:fluttertoast] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\fluttertoast\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\permission_handler\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:mobile_number] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\mobile_number\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-14:12
+MERGED from [:background_locator] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\background_locator\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_sms] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\flutter_sms\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:2:1-61:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\774c0a82778217146681873e254a1578\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\27ab3756814e5c2709812f57d27e2063\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\73f6ec29123ca37ed05199623e5c79a0\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\951037135043f18d3db03476d3058f36\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\9ab574c32e8042d19afe4d68c5aeb8b1\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\4d7bde3243b8058220f184d7fcc7bb13\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\57942fa69f5e1b5396fbcf94855aad7d\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\8c790dc75ad3e4732458cafcecaa1efc\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\ccd5b7c29785b8ebe894de6306cca948\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\fe0e47f5375114456a0acf6299e6d02b\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\a1ae4f7259b6c2a7d6eaf6550aebfeb4\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\5201ad1f8537bffc3148fe6db7f1e842\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\7723a8319a96fee94d03ae6f2de711aa\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\d09cf966adea82b119228639959708d8\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\19b1d07bb89afaaa42287ed8dab74faf\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\b2a5bd5e26b0f01e2d48180d77bfbf02\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\ed2454d8d320f006a9aa57dc47352755\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\c04cd6adede7a392ee0c804739b65458\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\7a73351bf949b5d341c9c8271bef4cbc\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\6caa93f026f7583862a9dbb729eef7ba\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\a39df167528326bc3c11152eda2acbb1\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\66cc9438ed44bfca5f137e405f570da7\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\cee3ddc81028b4a8ebda8a8cfa9a4992\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\e8b9f809db3ffd9b0303f2c8505a0363\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\09b4c2e7b434323cca1aaa434c23fc39\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\5331a4ed2f87d8220a518006c8e824b6\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\8b34665dea57419b3123037aa7921c5b\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\24503370faa3c65bc3bce826df1ad181\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\0851db0737ae4c3677f9c5528c517f09\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\7a555a2b33dfb413e9ae5a7e3b373101\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\17d0021c2ccf24814bb44ef1f1234e8c\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\33424dc139b8329c169d761dad6cf605\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\94098dae53390626300e264ab151ee17\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\466de23567dc96ce9d958996cfa5cb33\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\122827608fc67e3b41dbf6fe13121148\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\b92757bd31e020b4c02ae53d15da7f58\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\a3695654463fb4cb7207af20f7057438\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\eb269eb27c92701004bf0696440057c3\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\ee79ff93aefd5e8ef469109b299ff956\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\0e7b4ff75f11398d523fd5713d3b4ecf\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\c834194e3896ff9d8836002f53ee4df8\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\497e2cbec592be5cc91c3d6c92022dce\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\63e5a03be03b00350d373c69cfeeab55\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\36a6c6ebeb20b042b884badd067fca9f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:r_upgrade_lib:] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\4ce2cf2ccdf436c19072d264480b6311\transformed\jetified-r_upgrade_lib\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\f0cc81c04ea2143b10061e32b43d6b8b\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:2:5-45
+		INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:3:5-75
+MERGED from [:mobile_number] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\mobile_number\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-11:38
+MERGED from [:mobile_number] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\mobile_number\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-11:38
+	android:maxSdkVersion
+		ADDED from [:mobile_number] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\mobile_number\intermediates\merged_manifest\release\AndroidManifest.xml:11:9-35
+	android:name
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:3:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:4:5-79
+MERGED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-79
+MERGED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-79
+MERGED from [:connectivity] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\connectivity\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-79
+MERGED from [:connectivity] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\connectivity\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:5:5-75
+MERGED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-76
+MERGED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:7:4-47:19
+MERGED from [:url_launcher_android] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-12:19
+MERGED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-26:19
+MERGED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-26:19
+MERGED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:19:5-59:19
+MERGED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:19:5-59:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\27ab3756814e5c2709812f57d27e2063\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\27ab3756814e5c2709812f57d27e2063\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\73f6ec29123ca37ed05199623e5c79a0\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\73f6ec29123ca37ed05199623e5c79a0\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\9ab574c32e8042d19afe4d68c5aeb8b1\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\9ab574c32e8042d19afe4d68c5aeb8b1\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\4d7bde3243b8058220f184d7fcc7bb13\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\4d7bde3243b8058220f184d7fcc7bb13\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\57942fa69f5e1b5396fbcf94855aad7d\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\57942fa69f5e1b5396fbcf94855aad7d\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\8c790dc75ad3e4732458cafcecaa1efc\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\8c790dc75ad3e4732458cafcecaa1efc\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\ccd5b7c29785b8ebe894de6306cca948\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\ccd5b7c29785b8ebe894de6306cca948\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\17d0021c2ccf24814bb44ef1f1234e8c\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\17d0021c2ccf24814bb44ef1f1234e8c\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\b92757bd31e020b4c02ae53d15da7f58\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\b92757bd31e020b4c02ae53d15da7f58\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\17d0021c2ccf24814bb44ef1f1234e8c\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:8:9-43
+	android:icon
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:9:9-43
+	android:usesCleartextTraffic
+		ADDED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:13:18-53
+activity#com.example.bugreportingsystem.MainActivity
+ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:10:9-40:20
+	android:launchMode
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:12:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:15:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:16:13-55
+	android:configChanges
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:14:13-163
+	android:theme
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:13:13-47
+	android:name
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:11:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:21:13-24:17
+	android:resource
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:23:15-52
+	android:name
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:22:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:30:13-33:17
+	android:resource
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:32:15-61
+	android:name
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:31:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:38:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:43:9-45:33
+	android:value
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:45:13-30
+	android:name
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml:44:13-44
+uses-sdk
+INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml
+MERGED from [:location_permissions] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\location_permissions\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\location_permissions\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\path_provider\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\path_provider\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_beacon] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\flutter_beacon\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_beacon] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\flutter_beacon\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_secure_storage] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\flutter_secure_storage\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_secure_storage] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\flutter_secure_storage\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\shared_preferences_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\shared_preferences_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\connectivity\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\connectivity\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:alert] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\alert\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:alert] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\alert\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:device_information] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\device_information\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:device_information] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\device_information\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\fluttertoast\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\fluttertoast\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\permission_handler\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\permission_handler\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:mobile_number] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\mobile_number\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:mobile_number] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\mobile_number\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:background_locator] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\background_locator\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:background_locator] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\background_locator\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_sms] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\flutter_sms\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_sms] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\flutter_sms\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:6:5-8:41
+MERGED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\774c0a82778217146681873e254a1578\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\774c0a82778217146681873e254a1578\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\27ab3756814e5c2709812f57d27e2063\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\27ab3756814e5c2709812f57d27e2063\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\73f6ec29123ca37ed05199623e5c79a0\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\73f6ec29123ca37ed05199623e5c79a0\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\951037135043f18d3db03476d3058f36\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\951037135043f18d3db03476d3058f36\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\9ab574c32e8042d19afe4d68c5aeb8b1\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\9ab574c32e8042d19afe4d68c5aeb8b1\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\4d7bde3243b8058220f184d7fcc7bb13\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\4d7bde3243b8058220f184d7fcc7bb13\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\57942fa69f5e1b5396fbcf94855aad7d\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\57942fa69f5e1b5396fbcf94855aad7d\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\8c790dc75ad3e4732458cafcecaa1efc\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\8c790dc75ad3e4732458cafcecaa1efc\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\ccd5b7c29785b8ebe894de6306cca948\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\ccd5b7c29785b8ebe894de6306cca948\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\fe0e47f5375114456a0acf6299e6d02b\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\fe0e47f5375114456a0acf6299e6d02b\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\a1ae4f7259b6c2a7d6eaf6550aebfeb4\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\a1ae4f7259b6c2a7d6eaf6550aebfeb4\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\5201ad1f8537bffc3148fe6db7f1e842\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\5201ad1f8537bffc3148fe6db7f1e842\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\7723a8319a96fee94d03ae6f2de711aa\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\7723a8319a96fee94d03ae6f2de711aa\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\d09cf966adea82b119228639959708d8\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\d09cf966adea82b119228639959708d8\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\19b1d07bb89afaaa42287ed8dab74faf\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\19b1d07bb89afaaa42287ed8dab74faf\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\b2a5bd5e26b0f01e2d48180d77bfbf02\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\b2a5bd5e26b0f01e2d48180d77bfbf02\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\ed2454d8d320f006a9aa57dc47352755\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\ed2454d8d320f006a9aa57dc47352755\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\c04cd6adede7a392ee0c804739b65458\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\c04cd6adede7a392ee0c804739b65458\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\7a73351bf949b5d341c9c8271bef4cbc\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\7a73351bf949b5d341c9c8271bef4cbc\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\6caa93f026f7583862a9dbb729eef7ba\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\6caa93f026f7583862a9dbb729eef7ba\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\a39df167528326bc3c11152eda2acbb1\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\a39df167528326bc3c11152eda2acbb1\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\66cc9438ed44bfca5f137e405f570da7\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\66cc9438ed44bfca5f137e405f570da7\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\cee3ddc81028b4a8ebda8a8cfa9a4992\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\cee3ddc81028b4a8ebda8a8cfa9a4992\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\e8b9f809db3ffd9b0303f2c8505a0363\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\e8b9f809db3ffd9b0303f2c8505a0363\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\09b4c2e7b434323cca1aaa434c23fc39\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\09b4c2e7b434323cca1aaa434c23fc39\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\5331a4ed2f87d8220a518006c8e824b6\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\5331a4ed2f87d8220a518006c8e824b6\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\8b34665dea57419b3123037aa7921c5b\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\8b34665dea57419b3123037aa7921c5b\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\24503370faa3c65bc3bce826df1ad181\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\24503370faa3c65bc3bce826df1ad181\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\0851db0737ae4c3677f9c5528c517f09\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\0851db0737ae4c3677f9c5528c517f09\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\7a555a2b33dfb413e9ae5a7e3b373101\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\7a555a2b33dfb413e9ae5a7e3b373101\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\17d0021c2ccf24814bb44ef1f1234e8c\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\17d0021c2ccf24814bb44ef1f1234e8c\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\33424dc139b8329c169d761dad6cf605\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\33424dc139b8329c169d761dad6cf605\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\94098dae53390626300e264ab151ee17\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\94098dae53390626300e264ab151ee17\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\466de23567dc96ce9d958996cfa5cb33\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\466de23567dc96ce9d958996cfa5cb33\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\122827608fc67e3b41dbf6fe13121148\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\122827608fc67e3b41dbf6fe13121148\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\b92757bd31e020b4c02ae53d15da7f58\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\b92757bd31e020b4c02ae53d15da7f58\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\a3695654463fb4cb7207af20f7057438\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\a3695654463fb4cb7207af20f7057438\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\eb269eb27c92701004bf0696440057c3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\eb269eb27c92701004bf0696440057c3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\ee79ff93aefd5e8ef469109b299ff956\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\ee79ff93aefd5e8ef469109b299ff956\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\0e7b4ff75f11398d523fd5713d3b4ecf\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\0e7b4ff75f11398d523fd5713d3b4ecf\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\c834194e3896ff9d8836002f53ee4df8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\c834194e3896ff9d8836002f53ee4df8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\497e2cbec592be5cc91c3d6c92022dce\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\497e2cbec592be5cc91c3d6c92022dce\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\63e5a03be03b00350d373c69cfeeab55\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\63e5a03be03b00350d373c69cfeeab55\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\36a6c6ebeb20b042b884badd067fca9f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\36a6c6ebeb20b042b884badd067fca9f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:r_upgrade_lib:] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\4ce2cf2ccdf436c19072d264480b6311\transformed\jetified-r_upgrade_lib\AndroidManifest.xml:7:5-9:41
+MERGED from [:r_upgrade_lib:] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\4ce2cf2ccdf436c19072d264480b6311\transformed\jetified-r_upgrade_lib\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\f0cc81c04ea2143b10061e32b43d6b8b\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\f0cc81c04ea2143b10061e32b43d6b8b\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WiktorMazurczak\Documents\bugreportingsystem\android\app\src\main\AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:13-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-83
+	android:name
+		ADDED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-80
+service#com.example.r_upgrade.common.UpgradeService
+ADDED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-15:19
+	android:name
+		ADDED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:14:18-76
+provider#com.example.r_upgrade.RUpgradeFileProvider
+ADDED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-25:20
+	android:grantUriPermissions
+		ADDED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:21:13-47
+	android:authorities
+		ADDED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-64
+	android:exported
+		ADDED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-70
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:22:13-24:58
+	android:resource
+		ADDED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:24:17-55
+	android:name
+		ADDED from [:r_upgrade] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\r_upgrade\intermediates\merged_manifest\release\AndroidManifest.xml:23:17-67
+uses-permission#android.permission.READ_PHONE_NUMBERS
+ADDED from [:mobile_number] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\mobile_number\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from [:mobile_number] C:\Users\WiktorMazurczak\Documents\bugreportingsystem\build\mobile_number\intermediates\merged_manifest\release\AndroidManifest.xml:12:22-74
+uses-permission#android.permission.BLUETOOTH
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:10:5-12:36
+	android:required
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:12:9-33
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:11:9-52
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:14:9-58
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:17:22-78
+receiver#org.altbeacon.beacon.startup.StartupBroadcastReceiver
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:20:9-28:20
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:21:13-81
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED+action:name:android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:24:17-79
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:24:25-76
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:25:17-87
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:25:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:26:17-90
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:26:25-87
+service#org.altbeacon.beacon.service.BeaconService
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:30:9-35:38
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:32:13-35
+	android:label
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:33:13-37
+	android:isolatedProcess
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:31:13-70
+service#org.altbeacon.beacon.BeaconIntentProcessor
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:37:13-70
+service#org.altbeacon.beacon.service.ScanJob
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:40:9-50:19
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:41:13-64
+meta-data#immediateScanJobId
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:44:13-46:45
+	android:value
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:46:17-42
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:45:17-50
+meta-data#periodicScanJobId
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:47:13-49:45
+	android:value
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:49:17-42
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:48:17-49
+service#org.altbeacon.bluetooth.BluetoothTestJob
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:51:9-58:19
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:53:13-37
+	android:permission
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:54:13-69
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:52:13-68
+meta-data#jobId
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:55:13-57:46
+	android:value
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:57:17-43
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\20002854611f5f6bf8d91c900af47de8\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:56:17-37
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\4d7bde3243b8058220f184d7fcc7bb13\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\4d7bde3243b8058220f184d7fcc7bb13\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\4d7bde3243b8058220f184d7fcc7bb13\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\4d7bde3243b8058220f184d7fcc7bb13\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\ccd5b7c29785b8ebe894de6306cca948\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\ccd5b7c29785b8ebe894de6306cca948\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\WiktorMazurczak\.gradle\caches\transforms-3\ccd5b7c29785b8ebe894de6306cca948\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
